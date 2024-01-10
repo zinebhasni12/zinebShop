@@ -18,6 +18,46 @@
         "active": true
     },
     {
+
+        "_id": "656b4c60429feee65f1d41e6",
+        "sku": "ring-1701530720340",
+        "productImage": [
+        
+            "produit/p3.jpg",
+            "produit/p4.jpg",
+            "produit/p2.jpg"
+        ],
+        "productName": "Ensemble Pour les femmes voilées",
+        "categoryName": "Women",
+        "subcategoryName": "Ring",
+        "shortDescription": "A gleaming embodiment of prestige, this sliver ring exudes timeless allure and exquisite craftsmanship",
+        "longDescription": "Imbued with the essence of timeless elegance, this sliver ring captivates with its radiant allure. Crafted meticulously, it stands as a testament to exquisite artistry, an emblem of grace that transcends eras and embodies the essence of sophistication. A symbol of enduring beauty, it whispers stories of craftsmanship, luxury, and everlasting allure.",
+        "price": 800,
+        "quantity": 200,
+        "discountPrice": 30,
+        "active":true
+
+        },
+        {  
+        "_id":"656b4c60429fe455f1d41e6",
+        "sku": "ring-1701530720340",
+        "productImage": [
+        
+            "produit/p 14.jpg",
+            "produit/p 13.jpg"
+        ],
+        "productName": "Ensemble For Women",
+        "categoryName": "Women",
+        "subcategoryName": "Ring",
+        "shortDescription": "A gleaming embodiment of prestige, this sliver ring exudes timeless allure and exquisite craftsmanship",
+        "longDescription": "Imbued with the essence of timeless elegance, this sliver ring captivates with its radiant allure. Crafted meticulously, it stands as a testament to exquisite artistry, an emblem of grace that transcends eras and embodies the essence of sophistication. A symbol of enduring beauty, it whispers stories of craftsmanship, luxury, and everlasting allure.",
+        "price": 800,
+        "quantity": 200,
+        "discountPrice": 30,
+        "active": true
+
+    },
+    {
         "_id": "656b472a429feee65f1d41ca",
         "sku": "ring-1701529386714",
         "productImage": [
@@ -30,7 +70,7 @@
         "subcategoryName": "Ring",
         "shortDescription": "A gleaming embodiment of prestige, this gold ring exudes timeless allure and exquisite craftsmanship",
         "longDescription": "Imbued with the essence of timeless elegance, this golden ring captivates with its radiant allure. Crafted meticulously, it stands as a testament to exquisite artistry, an emblem of grace that transcends eras and embodies the essence of sophistication. A symbol of enduring beauty, it whispers stories of craftsmanship, luxury, and everlasting allure.",
-        "price": 80.69,
+        "price": 800,
         "quantity": 200,
         "discountPrice": 20,
         "active": true
@@ -85,7 +125,7 @@
         "subcategoryName": "Ring",
         "shortDescription": "Bolster your look with these simple yet vibrant rings from our collection.",
         "longDescription": "Bolster your look with these simple yet vibrant rings from our collection. This pack comes with 3 rings with each ring featuring an oval-coloured glass stone with a studded border. Designed to be easily adjustable, you can be assured of a perfect fit.",
-        "price": 153.71,
+        "price": 150,
         "quantity": 100,
         "discountPrice": 53,
         "active": true
@@ -101,7 +141,7 @@
         "subcategoryName": "Ring",
         "shortDescription": "Orelia Triple Illusion Adjustable Ring, Gold",
         "longDescription": "Designed with three textured rows to give the illusion of a full ring stack, this Triple Illusion Adjustable Ring is an easy-to-wear style suitable for everyday wear.",
-        "price": 281.8,
+        "price": 299,
         "quantity": 50,
         "discountPrice": 100,
         "active": true
@@ -119,7 +159,7 @@
         "subcategoryName": "Ring",
         "shortDescription": "This jewelled leopard ring brings the vintage jewels right to your fingertips.",
         "longDescription": "This jewelled leopard ring brings the vintage jewels right to your fingertips. It features round-cut Swarovski crystals in the leopard's eyes and a round jet embellishment on the leopard's body.",
-        "price": 448.31,
+        "price": 400,
         "quantity": 50,
         "discountPrice": 100,
         "active": true
@@ -138,7 +178,7 @@
         "subcategoryName": "Ring",
         "shortDescription": "This one's a stacking staple.",
         "longDescription": "This one's a stacking staple. One across every finger, layer with finer rings or a statement piece on its own. Every hand-crafted Monica Vinader piece comes with a 5-year warranty and lifetime repairs.",
-        "price": 448.31,
+        "price": 499,
         "quantity": 60,
         "discountPrice": 200,
         "active": true
@@ -156,7 +196,7 @@
         "subcategoryName": "Ring",
         "shortDescription": "Oval Pave Ring, Silver",
         "longDescription": "Beautifully polished and accented with pave set cubic zirconia stones on one side, this oval-shaped ring is a modern statement piece.",
-        "price": 499.55,
+        "price": 499,
         "quantity": 200,
         "discountPrice": 100,
         "active": true
@@ -174,7 +214,7 @@
         "subcategoryName": "Ring",
         "shortDescription": "Star Ring, Silver, Silver",
         "longDescription": "Kept simple with only a cut-out star detail, this polished ring is a style that shines through.",
-        "price": 499.55,
+        "price": 499,
         "quantity": 210,
         "discountPrice": 120,
         "active": true
@@ -192,7 +232,7 @@
         "subcategoryName": "Ring",
         "shortDescription": "a dazzling round brilliant cut diamond ",
         "longDescription": "With a dazzling round brilliant cut diamond surrounded by a series of clustered diamonds sitting on diamond set shoulders, this ring from E.W Adams can only be described as stunning. Made from solid platinum, it is a piece that they'll treasure for a lifetime.",
-        "price": 40924.75,
+        "price": 40925,
         "quantity": 10,
         "discountPrice": 0,
         "active": true
@@ -210,7 +250,7 @@
         "subcategoryName": "Ring",
         "shortDescription": "Precious circular white topaz stones reminiscent of raindrops",
         "longDescription": "From our Tender Collection: Precious circular white topaz stones reminiscent of raindrops make up this fun and playful Tender Statement Ring. Beautifully crafted in 925 sterling silver and set with genuine white topaz. As always all Hot Diamonds jewellery is adorned with a real diamond and presented in a luxury gift box.",
-        "price": 960.67,
+        "price": 990,
         "quantity": 60,
         "discountPrice": 200,
         "active": true
@@ -228,7 +268,7 @@
         "subcategoryName": "Bag",
         "shortDescription": "Inspired by the neat folds of origami",
         "longDescription": "Inspired by the neat folds of origami, Le Pliage from Longchamp delivers practical simplicity to a sleek everyday style. The light, foldaway bag has become recognisable worldwide.",
-        "price": 1280.9,
+        "price": 1299,
         "quantity": 300,
         "discountPrice": 200,
         "active": true
@@ -246,7 +286,7 @@
         "subcategoryName": "Bag",
         "shortDescription": "Reusable square tote bag",
         "longDescription": "Reusable square tote bag made from natural cotton, with our Snapper plant character on the front.",
-        "price": 76.85,
+        "price": 700,
         "quantity": 300,
         "discountPrice": 15,
         "active": true
@@ -264,7 +304,7 @@
         "subcategoryName": "Bag",
         "shortDescription": "shoulder bag perfect",
         "longDescription": "A smart shoulder bag perfect for work and weekends alike, choose this sleek piece from Ted Baker. Constructed from hardwearing fabric that's sure to last, it's detailed with a bow trim to the front and fastened with a secure zip.",
-        "price": 1408.99,
+        "price": 1400,
         "quantity": 150,
         "discountPrice": 80,
         "active": true
@@ -282,7 +322,7 @@
         "subcategoryName": "Bag",
         "shortDescription": "handbag style",
         "longDescription": "A must-have handbag style in any collection, especially when it's been imagined by Radley's talented Design Team. The Gordon Road grab bag is a practical and spacious shape, crafted in leather with a triangular slip pocket across the front. And of course, it's finished with all the brand's signature features.",
-        "price": 1524.27,
+        "price": 1500,
         "quantity": 200,
         "discountPrice": 0,
         "active": true
@@ -300,7 +340,7 @@
         "subcategoryName": "Bag",
         "shortDescription": "pouch from Katie Loxton",
         "longDescription": "This month pouch from Katie Loxton features a vegan leather material and a zip pull which is embellished with a real semi-precious stone. Complete with their signature gold-tone details, showcasing the months unique personality traits.",
-        "price": 294.61,
+        "price": 299,
         "quantity": 300,
         "discountPrice": 120,
         "active": true
@@ -319,7 +359,7 @@
         "subcategoryName": "Glasses",
         "shortDescription": "sunglasses have a slender",
         "longDescription": "Complete your look in effortless style with these sunglasses from Polo Ralph Lauren.\r\n\r\nWith a distinctive cat's eye shape, these sunglasses have a slender frame and metal detailing for a sleek finish.  The model is completed with branding at the arms.",
-        "price": 1165.62,
+        "price": 1100,
         "quantity": 80,
         "discountPrice": 0,
         "active": true
@@ -337,7 +377,7 @@
         "subcategoryName": "Glasses",
         "shortDescription": " pair of rectangular-shaped sunglasses",
         "longDescription": "This pair of rectangular-shaped sunglasses by Prada is designed to suit a round-shaped face.\r\nThe polyamide lenses are impact resistant and lightweight for comfortable wear, repelling water and dust for higher clarity.",
-        "price": 2561.8,
+        "price": 2500,
         "quantity": 250,
         "discountPrice": 1000,
         "active": true
@@ -372,7 +412,7 @@
         "subcategoryName": "Watch",
         "shortDescription": " Apple Watch SE ",
         "longDescription": "The 2nd generation of Apple Watch SE has powerful sensors for insights about your health and fitness, innovative safety features and convenient ways to stay connected. It’s also been updated with a faster dual-core processor for enhanced performance. It’s feature packed, tracking heart rate, sleep and loads more, helpfully guiding you towards a healthier you.",
-        "price": 2061.35,
+        "price": 2100,
         "quantity": 250,
         "discountPrice": 500,
         "active": true
@@ -408,7 +448,7 @@
         "subcategoryName": "Watch",
         "shortDescription": "Tommy Hilfiger watch",
         "longDescription": "With a sleek polished finish, this Tommy Hilfiger watch presents a clean and easy-to-read dial organised by slim index hour markets and sharp Arabic numerals every 3 hours. The polished bracelet strap gives a more formal appeal to the look and fastens with a folding clasp. The watch is water resistant up to 5 ATM for a practical touch.",
-        "price": 1793.26,
+        "price": 1700,
         "quantity": 200,
         "discountPrice": 500,
         "active": true
@@ -427,7 +467,7 @@
         "subcategoryName": "bag",
         "shortDescription": "wash bag",
         "longDescription": "With an embossed logo, this leather wash bag from Barbour boasts rugged texture and charm thanks to a natural grained finish and rounded edges. With a grab handle, and an external zipped pocket, this travel essential keeps all your toiletries practically protected and to hand when you're on-the-go.",
-        "price": 153.71,
+        "price": 1590,
         "quantity": 160,
         "discountPrice": 53,
         "active": true
@@ -464,7 +504,7 @@
         "subcategoryName": "bracelet",
         "shortDescription": "This BOSS braided men's leather bracelet",
         "longDescription": "This BOSS braided men's leather bracelet is from the Seal collection. Exuding contemporary masculinity, the Seal bracelet collection combines two strands of braided leather with a distinctive cufflink-style button, inspired by the brand's iconic tailoring. With a logo-engraved guilloché finish, the stainless steel button secures with a woven leather loop for a relaxed look.",
-        "price": 627.64,
+        "price": 600,
         "quantity": 100,
         "discountPrice": 100,
         "active": true
@@ -482,7 +522,7 @@
         "subcategoryName": "bracelet",
         "shortDescription": "This BOSS braided men's leather bracelet",
         "longDescription": "Intricately woven from leather, this BOSS men's leather bracelet from the Lander collection is understated yet assured. The ideal complement to a BOSS timepiece, the bracelet is secured with a logo-engraved magnetic closure.",
-        "price": 755.73,
+        "price": 700,
         "quantity": 100,
         "discountPrice": 200,
         "active": true
@@ -518,7 +558,7 @@
         "subcategoryName": "Shoes",
         "shortDescription": "A classic Chelsea style boot",
         "longDescription": "Blending style and function, these Chelsea boots from Dune are constructed from pure leather that will age beautifully with every wear.\r\nSlipping on when needed, pair with rolled up trousers for the ultimate weekend look",
-        "price": 1537.08,
+        "price": 1599,
         "quantity": 300,
         "discountPrice": 500,
         "active": true
