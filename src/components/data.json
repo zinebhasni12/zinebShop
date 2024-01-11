@@ -56,6 +56,43 @@
         "discountPrice": 30,
         "active": true
 
+
+},
+ {
+    "_id":"656b4c60429fe455f1d41e6",
+    "sku": "ring-1701530720340",
+    "productImage": [
+    
+        "produit/pull1.jpg",
+        "produit/pull3.jpg",
+        "produit/pull2.jpg",
+        "produit/pull4.jpg"
+    ],
+    "productName": "Pull for Men",
+    "categoryName": "Men",
+    "subcategoryName": "Ring",
+    "shortDescription": "A gleaming embodiment of prestige, this sliver ring exudes timeless allure and exquisite craftsmanship",
+    "longDescription": "Imbued with the essence of timeless elegance, this sliver ring captivates with its radiant allure. Crafted meticulously, it stands as a testament to exquisite artistry, an emblem of grace that transcends eras and embodies the essence of sophistication. A symbol of enduring beauty, it whispers stories of craftsmanship, luxury, and everlasting allure.",
+    "price": 150,
+    "quantity": 2000,
+    "discountPrice": 30,
+    "active": true
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     },
     {
         "_id": "656b472a429feee65f1d41ca",
