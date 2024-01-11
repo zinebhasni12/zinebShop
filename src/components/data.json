@@ -39,7 +39,7 @@
 
         },
         {  
-        "_id":"656b4c60429fe455f1d41e6",
+      "_id":"656b4c60429fe455f1d41e6",
         "sku": "ring-1701530720340",
         "productImage": [
         
@@ -65,6 +65,7 @@
     
         "produit/pull1.jpg",
         "produit/pull3.jpg",
+        "produit/pull5.jpg",
         "produit/pull2.jpg",
         "produit/pull4.jpg"
     ],
@@ -78,7 +79,107 @@
     "discountPrice": 30,
     "active": true
 
- 
+},
+{
+    "_id":"656b4c60429fe455f1d41e6",
+    "sku": "ring-1701530720340",
+    "productImage": [
+    
+        "produit/bracelet1.jpg",
+        "produit/bracelet.jpg"
+    ],
+    "productName": "Bracelet",
+    "categoryName": "Men",
+    "subcategoryName": "Strong",
+    "shortDescription": "A gleaming embodiment of prestige, this sliver ring exudes timeless allure and exquisite craftsmanship",
+    "longDescription": "Imbued with the essence of timeless elegance, this sliver ring captivates with its radiant allure. Crafted meticulously, it stands as a testament to exquisite artistry, an emblem of grace that transcends eras and embodies the essence of sophistication. A symbol of enduring beauty, it whispers stories of craftsmanship, luxury, and everlasting allure.",
+    "price": 100,
+    "quantity": 2000,
+    "discountPrice": 30,
+    "active": true
+
+
+},
+{
+    "_id":"00f1d41e6",
+    "sku": "ring-1701530720340",
+    "productImage": [
+    
+        "produit/p20.jpg",
+        "produit/p16.jpg",
+        "produit/p18.jpg",
+        "produit/p19.jpg"
+    ],
+    "productName": "Survette pour femme ",
+    "categoryName": "Women",
+    "subcategoryName": "Ring",
+    "shortDescription": "A gleaming embodiment of prestige, this sliver ring exudes timeless allure and exquisite craftsmanship",
+    "longDescription": "Imbued with the essence of timeless elegance, this sliver ring captivates with its radiant allure. Crafted meticulously, it stands as a testament to exquisite artistry, an emblem of grace that transcends eras and embodies the essence of sophistication. A symbol of enduring beauty, it whispers stories of craftsmanship, luxury, and everlasting allure.",
+    "price": 400,
+    "quantity": 200,
+    "discountPrice": 30,
+    "active": true
+
+},
+{
+    "_id": "656b57518c408639e522df53",
+    "sku": "ring-1701533521635",
+    "productImage": [
+        "produit/S3.jpg",
+        "produit/S1.jpg",
+        "produit/S2.jpg"
+    ],
+    "productName": "Very chic watch",
+    "categoryName": "Men",
+    "subcategoryName": "Rong",
+    "shortDescription": "Orelia Triple Illusion Adjustable Ring, Gold",
+    "longDescription": "Designed with three textured rows to give the illusion of a full ring stack, this Triple Illusion Adjustable Ring is an easy-to-wear style suitable for everyday wear.",
+    "price": 299,
+    "quantity": 50,
+    "discountPrice": 100,
+    "active": true
+
+},
+{
+
+    "_id": "656b57539e52200",
+    "sku": "ring-1701533521635",
+    "productImage": [
+        " produit/B2.jpg",
+        "produit/B1.jpg"
+    ],
+    "productName": "Bracelet",
+    "categoryName": "Men",
+    "subcategoryName": "Ring",
+    "shortDescription": "Orelia Triple Illusion Adjustable Ring, Gold",
+    "longDescription": "Designed with three textured rows to give the illusion of a full ring stack, this Triple Illusion Adjustable Ring is an easy-to-wear style suitable for everyday wear.",
+    "price": 200,
+    "quantity": 50,
+    "discountPrice": 100,
+    "active": true
+
+},
+{
+
+    "_id": "656b57518c408639e522df53",
+    "sku": "ring-1701533521635",
+    "productImage": [
+        "produit/robe8.jpeg",
+        "produit/robe1.jpeg",
+        "produit/robe7.jpeg"
+    ],
+    "productName": "Robe pour femme",
+    "categoryName": "Women",
+    "subcategoryName": "Ring",
+    "shortDescription": "Orelia Triple Illusion Adjustable Ring, Gold",
+    "longDescription": "Designed with three textured rows to give the illusion of a full ring stack, this Triple Illusion Adjustable Ring is an easy-to-wear style suitable for everyday wear.",
+    "price": 281.8,
+    "quantity": 50,
+    "discountPrice": 100,
+    "active": true
+
+
+
 
 
 

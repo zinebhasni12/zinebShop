@@ -11,7 +11,7 @@ const Contact = () => {
                 Fondé Cette année par Zineb Alaoui, Zineb shop a commencé, son enthousiasme pour fournir le meilleur produit avec une qualité  l'a poussé à action qu'il/elle a faite, par exemple 'faire des recherches intensives, quitter son travail quotidien'l'impulsion pour transformer le travail acharné et l'inspiration en un magasin en ligne en plein essor.
             </p>
             <p className="text-gray-700 mt-4">
-                Nous espérons que vous apprécierez nos produits autant que nous aimons les offrir. Si vous avez des questions ou des commentaires, n'hésitez pas à nous contacter.
+                Nous espérons que vous apprécierez nos produits autant que nous aimons les offrir. Si vous avez des questions ou des commentaires, n'hésitez pas à nous contacter sur +212522202221.
             </p>
 
             <p className="text-gray-700 mt-4">
