@@ -198,6 +198,60 @@
     "quantity": 50,
     "discountPrice": 100,
     "active": true
+
+},
+{
+    "_id": "656b55e38c408639e522df3e",
+    "sku": "ring-1701533155432",
+    "productImage": [
+        
+        
+        "produit/botte.jpg",
+        "produit/botte3.jpg",
+        "produit/BOTTE2.jpg",
+        "produit/bot12.jpg",
+        "produit/BOT 11.jpg"
+    ],
+    "productName": "Boots Very Class ",
+    "categoryName": "Women",
+    "subcategoryName": "Ring",
+    "shortDescription": "Bolster your look with these simple yet vibrant rings from our collection.",
+    "longDescription": "Bolster your look with these simple yet vibrant rings from our collection. This pack comes with 3 rings with each ring featuring an oval-coloured glass stone with a studded border. Designed to be easily adjustable, you can be assured of a perfect fit.",
+    "price": 300,
+    "quantity": 100,
+    "discountPrice": 53,
+    "active": true
+},
+{
+    "_id": "656b55e38c408639e522df3e",
+    "sku": "ring-1701533155432",
+    "productImage": [
+        "produit/bot7.jpg",
+        "produit/bot6.jpg",
+        "produit/bot4.jpg",
+        "produit/bot2.jpg",
+        " produit/bot.jpg"
+    ],
+    "productName": "Classy and chic boots",
+    "categoryName": "Women",
+    "subcategoryName": "Ring",
+    "shortDescription": "Bolster your look with these simple yet vibrant rings from our collection.",
+    "longDescription": "Bolster your look with these simple yet vibrant rings from our collection. This pack comes with 3 rings with each ring featuring an oval-coloured glass stone with a studded border. Designed to be easily adjustable, you can be assured of a perfect fit.",
+    "price": 2000,
+    "quantity": 100,
+    "discountPrice": 50,
+    "active": true
+
+
+
+
+
+
+
+
+
+
+
 },
 {
     "_id": "656b57518c408639e522df53",
@@ -240,6 +294,27 @@
     "discountPrice": 100,
     "active": true
 
+},
+{
+    "_id": "996b55e38c408639edf3e",
+    "sku": "ring-1701533155432",
+    "productImage": [
+        "produit/B33.jpg",
+        "produit/B10.jpg",
+        "produit/B8.jpg",
+        "produit/b77.jpg",
+        "produit/B7.jpg"
+    ],
+    "productName": "Coloured Women Adjustable Ring",
+    "categoryName": "Women",
+    "subcategoryName": "Ring",
+    "shortDescription": "Bolster your look with these simple yet vibrant rings from our collection.",
+    "longDescription": "Bolster your look with these simple yet vibrant rings from our collection. This pack comes with 3 rings with each ring featuring an oval-coloured glass stone with a studded border. Designed to be easily adjustable, you can be assured of a perfect fit.",
+    "price": 153.71,
+    "quantity": 100,
+    "discountPrice": 53,
+    "active": true
+
 
 
 
@@ -278,32 +353,6 @@
     "quantity": 500,
     "discountPrice": 100,
     "active": true
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     },
@@ -381,7 +430,7 @@
         "active": true
     },
     {
-        "_id": "656b57518c408639e522df53",
+        "_id": "656b57518cb408639e522df53",
         "sku": "ring-1701533521635",
         "productImage": [
             "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052190/product_images/1702052192571/iady8g9mnc5lnttmeoxr.webp"
