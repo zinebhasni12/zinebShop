@@ -194,11 +194,34 @@
     "subcategoryName": "Ring",
     "shortDescription": "Orelia Triple Illusion Adjustable Ring, Gold",
     "longDescription": "Designed with three textured rows to give the illusion of a full ring stack, this Triple Illusion Adjustable Ring is an easy-to-wear style suitable for everyday wear.",
-    "price": 281.8,
+    "price": 400,
     "quantity": 50,
     "discountPrice": 100,
     "active": true
 
+
+
+
+
+},
+{
+    "_id": "656b57518c408639e522df53",
+    "sku": "ring-1701533521635",
+    "productImage": [
+        
+        " produit/c2.jpg",
+        " produit/c1.jpg",
+        " produit/C3.jpg"
+    ],
+    "productName": "Orelia Triple Illusion Adjustable Ring, Gold",
+    "categoryName": "Women",
+    "subcategoryName": "Ring",
+    "shortDescription": "Orelia Triple Illusion Adjustable Ring, Gold",
+    "longDescription": "Designed with three textured rows to give the illusion of a full ring stack, this Triple Illusion Adjustable Ring is an easy-to-wear style suitable for everyday wear.",
+    "price": 281.8,
+    "quantity": 50,
+    "discountPrice": 100,
+    "active": true
 
 
 
