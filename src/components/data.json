@@ -198,6 +198,61 @@
     "quantity": 50,
     "discountPrice": 100,
     "active": true
+},
+{
+    "_id": "656b57518c408639e522df53",
+    "sku": "ring-1701533521635",
+    "productImage": [
+        "produit/M1.jpg",
+        " produit/M11.jpg",
+        " produit/M2.jpg",
+        " produit/M4.jpg",
+        " produit/M3.jpg"
+
+    ],
+    "productName": " Monton Femme Ring, Gold",
+    "categoryName": "Women",
+    "subcategoryName": "Ring",
+    "shortDescription": "Orelia Triple Illusion Adjustable Ring, Gold",
+    "longDescription": "Designed with three textured rows to give the illusion of a full ring stack, this Triple Illusion Adjustable Ring is an easy-to-wear style suitable for everyday wear.",
+    "price": 700,
+    "quantity": 50,
+    "discountPrice": 100,
+    "active": true
+},
+{
+    "_id": "656b57518c408639e522df53",
+    "sku": "ring-1701533521635",
+    "productImage": [
+        " produit/B4.jpg",
+        " produit/B44.jpg",
+        " produit/B3.jpg",
+        " produit/B55.jpg",
+        " produit/B5.jpg"
+    ],
+    "productName": "BRACELET WOMEN Ring, Gold",
+    "categoryName": "Women",
+    "subcategoryName": "Ring",
+    "shortDescription": " Adjustable Ring, Gold Bracelet ",
+    "longDescription": "Designed with three textured rows to give the illusion of a full ring stack, this Triple Illusion Adjustable Ring is an easy-to-wear style suitable for everyday wear.",
+    "price": 300,
+    "quantity": 50,
+    "discountPrice": 100,
+    "active": true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -211,15 +266,16 @@
         
         " produit/c2.jpg",
         " produit/c1.jpg",
-        " produit/C3.jpg"
+        " produit/C3.jpg",
+        " produit/C4.jpg"
     ],
-    "productName": "Orelia Triple Illusion Adjustable Ring, Gold",
+    "productName": " Adjustable Ring, Gold",
     "categoryName": "Women",
     "subcategoryName": "Ring",
     "shortDescription": "Orelia Triple Illusion Adjustable Ring, Gold",
     "longDescription": "Designed with three textured rows to give the illusion of a full ring stack, this Triple Illusion Adjustable Ring is an easy-to-wear style suitable for everyday wear.",
-    "price": 281.8,
-    "quantity": 50,
+    "price": 199,
+    "quantity": 500,
     "discountPrice": 100,
     "active": true
 
