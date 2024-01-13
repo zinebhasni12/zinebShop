@@ -223,6 +223,71 @@
     "active": true
 },
 {
+
+
+    "_id": "656b57518c408639e522df53",
+    "sku": "ring-1701533521635",
+    "productImage": [
+        "produit/A1.jpg",
+        "produit/A2.jpg",
+        "produit/A3.jpg",
+        "produit/A4.jpg",
+        "produit/A5.jpg"
+    ],
+    "productName": "Spadri strong Women, Gold",
+    "categoryName": "Women",
+    "subcategoryName": "Ring",
+    "shortDescription": "Orelia Triple Illusion Adjustable Ring, Gold",
+    "longDescription": "Designed with three textured rows to give the illusion of a full ring stack, this Triple Illusion Adjustable Ring is an easy-to-wear style suitable for everyday wear.",
+    "price":350,
+    "quantity": 1000,
+    "discountPrice": 100,
+    "active": true
+
+},
+{
+    "_id": "656b57518c408639e522df53",
+    "sku": "ring-1701533521635",
+    "productImage": [
+        
+        " produit/pack.jpg",
+        " produit/pack1.jpg",
+        " produit/pack4.jpg",
+        " produit/pack3.jpg",
+        " produit/pack7.jpg"
+    ],
+    "productName": " IllusionClassy and chic pack, Gold",
+    "categoryName": "Women",
+    "subcategoryName": "Ring",
+    "shortDescription": "Orelia Triple Illusion Adjustable Ring, Gold",
+    "longDescription": "Designed with three textured rows to give the illusion of a full ring stack, this Triple Illusion Adjustable Ring is an easy-to-wear style suitable for everyday wear.",
+    "price": 281.8,
+    "quantity": 50,
+    "discountPrice": 100,
+    "active": true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+},
+{
     "_id": "656b55e38c408639e522df3e",
     "sku": "ring-1701533155432",
     "productImage": [

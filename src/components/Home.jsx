@@ -7,6 +7,7 @@ function Home() {
     const [categorie, setCategorie] = useState('');
     const [recherche, setRecherche] = useState('');
     const [categories, setCategories] = useState([]);
+    
 
     useEffect(() => {
         const categoriesUniques = new Set(produitData.map(produit => produit.categoryName));
