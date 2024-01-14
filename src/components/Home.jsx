@@ -2,6 +2,7 @@ import React, { useState, useEffect, useMemo } from 'react';
 import CardList from './CardListe';
 import produitData from './data.json';
 import { Header } from "./Header.jsx";
+import Panier from './Panier.jsx';
 
 function Home() {
     const [categorie, setCategorie] = useState('');
@@ -27,6 +28,7 @@ function Home() {
         <div className="bg-white dark:bg-gray-800">
 
         <div className="container mx-auto p-4 mt-20">
+            <Panier/>
                 <div className="grid grid-cols-4 gap-2 mb-4">
                     <input
                         className="flex-1 p-2 border rounded text-black"

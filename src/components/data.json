@@ -256,7 +256,7 @@
         " produit/pack3.jpg",
         " produit/pack7.jpg"
     ],
-    "productName": " IllusionClassy and chic pack, Gold",
+    "productName": " Illusion Classy and chic pack, Gold",
     "categoryName": "Women",
     "subcategoryName": "Ring",
     "shortDescription": "Orelia Triple Illusion Adjustable Ring, Gold",
@@ -306,15 +306,6 @@
     "quantity": 100,
     "discountPrice": 50,
     "active": true
-
-
-
-
-
-
-
-
-
 
 
 },
@@ -375,29 +366,10 @@
     "subcategoryName": "Ring",
     "shortDescription": "Bolster your look with these simple yet vibrant rings from our collection.",
     "longDescription": "Bolster your look with these simple yet vibrant rings from our collection. This pack comes with 3 rings with each ring featuring an oval-coloured glass stone with a studded border. Designed to be easily adjustable, you can be assured of a perfect fit.",
-    "price": 153.71,
+    "price": 199,
     "quantity": 100,
     "discountPrice": 53,
     "active": true
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 },
 {
     "_id": "656b57518c408639e522df53",

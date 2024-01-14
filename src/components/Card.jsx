@@ -1,5 +1,8 @@
-import React from 'react';
+import React, {useEffect, useState} from 'react';
+import { useCart } from './CartContext'; // Import the context
+
 const Card = ({ produit }) => {
+    const { addToCart } = useCart();
     return (
 
 
@@ -43,6 +46,13 @@ const Card = ({ produit }) => {
                 <h4 className="text-xs  tracking-tight text-yellow-500 dark:text-white">Description: {produit.shortDescription}</h4>
                 <h4 className="text-sm font-semibold tracking-tight text-yellow-500 dark:text-white">Prix: {produit.price}</h4>
                 <h4 className="text-sm font-semibold tracking-tight text-yellow-500 dark:text-white">Quantite: {produit.quantity}</h4>
+
+                <button
+                    className="px-4 py-2 mt-2 text-white bg-blue-500 rounded hover:bg-blue-700"
+                    onClick={() => addToCart(produit)}
+                >
+                    Add to Cart
+                </button>
             </div>
         </div>
 

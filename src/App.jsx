@@ -8,6 +8,7 @@ import {Header} from "./components/Header.jsx";
 import Pricing from "./components/Pricing.jsx";
 import Service from "./components/Service.jsx";
 import Contact from "./components/Contact.jsx";
+import { CartProvider } from './components/CartContext.jsx';
 
 
 function App() {
@@ -31,10 +32,9 @@ function App() {
         setDarkMode(!darkMode);
     };
   return (
-
+    <CartProvider>
     <Router>
         <Header toggleDarkMode={toggleDarkMode} />
-
         <Routes>
           <Route path="/login" element={<Login  />} />
           <Route path="/about" element={<About /> } />
@@ -46,6 +46,7 @@ function App() {
           <Route path="*" element={ <Navigate to="/login" />} />
         </Routes>
       </Router>
+      </CartProvider>
   );
 }
 

@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import {useCart} from useCart ;
-
+import {useCart} from "./cartContext.jsx";
 
 const Panier = () => {
     const { cart, removeFromCart } = useCart();
