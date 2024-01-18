@@ -19,7 +19,7 @@
     },
     {
 
-        "_id": "656b4c60429feee65f1d41e6",
+        "_id": "656b4c60429feee65f1d416",
         "sku": "ring-1701530720340",
         "productImage": [
         
@@ -39,7 +39,7 @@
 
         },
         {  
-      "_id":"656b4c60429fe455f1d41e6",
+      "_id":"656b4c60429fe455f1d2e6",
         "sku": "ring-1701530720340",
         "productImage": [
         
@@ -59,7 +59,7 @@
 
 },
  {
-    "_id":"656b4c60429fe455f1d41e6",
+    "_id":"656b4c60429fe455fdd41e6",
     "sku": "ring-1701530720340",
     "productImage": [
     
@@ -122,7 +122,7 @@
 
 },
 {
-    "_id": "656b57518c408639e522df53",
+    "_id": "656b57518c408639e52253",
     "sku": "ring-1701533521635",
     "productImage": [
         "produit/S3.jpg",
@@ -161,7 +161,7 @@
 },
 {
 
-    "_id": "656b57518c408639e522df53",
+    "_id": "656b57518c408639e5453",
     "sku": "ring-1701533521635",
     "productImage": [
         "produit/robe8.jpeg",
@@ -181,7 +181,7 @@
 
 },
 {
-    "_id": "656b57518c408639e522df53",
+    "_id": "656b57518c40863952df5",
     "sku": "ring-1701533521635",
     "productImage": [
         "produit/robe1.webp",
@@ -201,7 +201,7 @@
 
 },
 {
-    "_id": "656b55e38c408639e522df3e",
+    "_id": "656b55e38c408639e522df4e",
     "sku": "ring-1701533155432",
     "productImage": [
         
@@ -223,9 +223,7 @@
     "active": true
 },
 {
-
-
-    "_id": "656b57518c408639e522df53",
+    "_id": "656b57518c408639e522d3",
     "sku": "ring-1701533521635",
     "productImage": [
         "produit/A1.jpg",
@@ -246,7 +244,7 @@
 
 },
 {
-    "_id": "656b57518c408639e522df53",
+    "_id": "656b57518c408639e522df533",
     "sku": "ring-1701533521635",
     "productImage": [
         
@@ -273,22 +271,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 },
 {
-    "_id": "656b55e38c408639e522df3e",
+    "_id": "656b55e38c408639e5ppe",
     "sku": "ring-1701533155432",
     "productImage": [
         "produit/bot7.jpg",
@@ -310,7 +295,7 @@
 
 },
 {
-    "_id": "656b57518c408639e522df53",
+    "_id": "656b57518c408639e522df99",
     "sku": "ring-1701533521635",
     "productImage": [
         "produit/M1.jpg",
@@ -331,7 +316,7 @@
     "active": true
 },
 {
-    "_id": "656b57518c408639e522df53",
+    "_id": "656b57518c408639e522dff",
     "sku": "ring-1701533521635",
     "productImage": [
         " produit/B4.jpg",
@@ -372,7 +357,7 @@
     "active": true
 },
 {
-    "_id": "656b57518c4086d39e522df53",
+    "_id": "656b57518c4086d39e522df5",
     "sku": "ring-1701533521635",
     "productImage": [
         
@@ -448,7 +433,7 @@
         "active": true
     },
     {
-        "_id": "656b55e38c408639522df3e",
+        "_id": "656b55e38c408639522dffe",
         "sku": "ring-1701533155432",
         "productImage": [
             "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051888/product_images/1702051890506/r3d0skuhpzhf2c7v3qrg.jpg",
@@ -467,7 +452,7 @@
         "active": true
     },
     {
-        "_id": "656b57518cb408639e522f53",
+        "_id": "656b57518cb408639e52ss53",
         "sku": "ring-1701533521635",
         "productImage": [
             "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052190/product_images/1702052192571/iady8g9mnc5lnttmeoxr.webp"

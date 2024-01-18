@@ -8,7 +8,7 @@ function Home() {
     const [categorie, setCategorie] = useState('');
     const [recherche, setRecherche] = useState('');
     const [categories, setCategories] = useState([]);
-    
+
 
     useEffect(() => {
         const categoriesUniques = new Set(produitData.map(produit => produit.categoryName));
@@ -27,8 +27,8 @@ function Home() {
     return (
         <div className="bg-white dark:bg-gray-800">
 
-        <div className="container mx-auto p-4 mt-20">
-            <Panier/>
+            <div className="container mx-auto p-4 mt-20">
+                <Panier />
                 <div className="grid grid-cols-4 gap-2 mb-4">
                     <input
                         className="flex-1 p-2 border rounded text-black"

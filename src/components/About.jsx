@@ -15,8 +15,7 @@ const About = () => {
             </p>
 
             <p className="text-gray-700 mt-4">
-                <br/>
-                
+                <br/>   
             </p>
         </div>
     );
