@@ -240,7 +240,7 @@ const Panier = () => {
                                     <td>
                                         <span
                                             className="text-lg font-bold text-black   dark:bg-gray-700 dark:text-white"> {parseInt(getTotalPrice())} MAD</span></td>
-                                    <td><button onClick={clearCart} className="px-4 py-2 mt-2 text-white bg-blue-500 rounded hover:bg-blue-700"
+                                    <td><button data-modal-toggle="crypto-modal" onClick={clearCart} className="px-4 py-2 mt-2 text-white bg-blue-500 rounded hover:bg-blue-700"
                                     >
                                         Send Order
                                     </button></td>
