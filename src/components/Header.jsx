@@ -9,14 +9,14 @@ export const Header = ({ toggleDarkMode }) => {
 
     return (
         <nav className="fixed top-0 left-0 w-full bg-gray-100 border-gray-200 dark:bg-gray-900 border-b dark:border-gray-200 z-50">
-            <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+            <div className=" flex flex-wrap items-center justify-between mx-auto p-4">
                 <a href="https://flowbite.com/" className="flex items-center space-x-3 rtl:space-x-reverse">
                     <img src={zinebshop} className="h-12 dark:hidden" alt="Flowbite Logo Light" />
                     <img src={zinebshopDark} className="h-12 hidden dark:block" alt="Flowbite Logo Dark" />
                 </a>
 
                 <div className="flex items-center md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
-                    <div className="grid grid-cols-4 gap-4">
+                    <div className="grid grid-cols-2  gap-4">
                         <div><button type="button"
                             className="flex text-sm bg-gray-800 rounded-full md:me-0 focus:ring-4 focus:ring-gray-300 dark:focus:ring-gray-600"
                             id="user-menu-button" aria-expanded="false" data-dropdown-toggle="user-dropdown"
