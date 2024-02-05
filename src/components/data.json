@@ -452,7 +452,8 @@
         "sku": "ring-1701533521635",
         "productImage": [
             "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052190/product_images/1702052192571/iady8g9mnc5lnttmeoxr.webp",
-            "produit/J12.jpg"
+            "produit/J12.jpg",
+            "produit/P11.webp"
         ],
         "productName": "Orelia Triple Illusion Adjustable Ring, Gold",
         "categoryName": "Women",
@@ -465,6 +466,31 @@
         "active": true
     },
     {
+        "_id": "656b57518cb408639e52tt00",
+        "sku": "ring-1701533521635",
+        "productImage": [
+ "produit/J61.jpg",
+"produit/J16.jpg",
+"produit/J66.jpg",  
+"produit/J64.jpg"
+        ],
+        "productName": "Orelia Triple Illusion Adjustable Ring, Gold",
+        "categoryName": "Women",
+        "subcategoryName": "Ring",
+        "shortDescription": "Orelia Triple Illusion  Ring, Gold",
+        "longDescription": "Designed with three textured rows to give the illusion of a full ring stack, this Triple Illusion Adjustable Ring is an easy-to-wear style suitable for everyday wear.",
+        "price": 199,
+        "quantity": 50,
+        "discountPrice": 100,
+        "active": true
+
+
+},
+{        
+
+
+
+
         "_id": "656b58258c408639e522df63",
         "sku": "ring-1701533733698",
         "productImage": [
@@ -863,6 +889,38 @@
         "discountPrice": 0,
         "active": true
     },
+
+
+
+    {
+        "_id": "656b97a7a1e081a0961e0988",
+        "sku": "shose-1701549991179",
+        "productImage": [
+        
+            " produit/C24.jpg",
+            " produit/C22.jpg",
+            " produit/C123.jpg",
+            " produit/C43.jpg",
+            " produit/C44.jpg"
+        ],
+        "productName": "Very Chic Shoe Leather Chelsea Black",
+        "categoryName": "Men",
+        "subcategoryName": "Shoes",
+        "shortDescription": "A classic Chelsea style shoe",
+        "longDescription": "These Chelsea boots from Dune are constructed from pure leather that will age beautifully with every wear.\r\nSlipping on when needed, pair with rolled up trousers for the ultimate weekend look",
+        "price": 250,
+        "quantity": 5000,
+        "discountPrice": 500,
+        "active": true
+    },
+
+
+
+
+
+
+
+    
     {
         "_id": "656b97a7a1e081a0961e09ee",
         "sku": "shose-1701549991179",
