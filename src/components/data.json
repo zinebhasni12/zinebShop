@@ -267,10 +267,6 @@
 
 
 
-
-
-
-
 },
 {
     "_id": "656b55e38c408639e5ppe",
@@ -452,10 +448,11 @@
         "active": true
     },
     {
-        "_id": "656b57518cb408639e52ss53",
+        "_id": "656b57518cb408639e52tv3",
         "sku": "ring-1701533521635",
         "productImage": [
-            "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052190/product_images/1702052192571/iady8g9mnc5lnttmeoxr.webp"
+            "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052190/product_images/1702052192571/iady8g9mnc5lnttmeoxr.webp",
+            "produit/J12.jpg"
         ],
         "productName": "Orelia Triple Illusion Adjustable Ring, Gold",
         "categoryName": "Women",
